@@ -1,0 +1,13 @@
+{
+    "collection_date": "2025-04-13 10:35:48",
+    "data_sources": [
+        "overnight_stays",
+        "seasonal_distribution",
+        "origin_countries"
+    ],
+    "processed_data": [
+        "yearly_stays",
+        "monthly_stays",
+        "origin_stays"
+    ]
+}
