@@ -32,7 +32,6 @@ Zürich ist eine beliebte Tourismusdestination mit vielfältigen Attraktionen. D
 - OpenStreetMap (POIs, Strassen, Gebäude)  
 - Statistik Stadt Zürich (Tourismuszahlen)  
 - Zürich Tourismus (Besucherdaten)  
-- ZVV (ÖV-Nutzungsdaten)
 
 **🛠️ Tools & Software:**  
 - QGIS 3.x  
